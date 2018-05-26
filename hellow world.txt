@@ -1,3 +1,4 @@
 cout << "Hellow!";
 cout << "asd";
 cout << "Yue";
+cout << "Мой дорогой друг";
