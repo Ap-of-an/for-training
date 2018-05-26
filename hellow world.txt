@@ -1,5 +1,5 @@
-cout << "Hellow!";
-cout << "asd";
-cout << "Yue";
+cout << "Hellow!;";
+cout << "asd;";
+cout << "Yue;";
 cout << "Мой дорогой друг";
 cout << "Мой ne_дорогой друг";
